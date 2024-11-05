@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "abc",
+      "password": "Password@123",
+      "database": "organization_tree",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
+  
